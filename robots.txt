@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://camdenrestorationco.com/sitemap.xml
